@@ -4,6 +4,7 @@
 <h1 align="center"><b>The Voice of Sign Language</b></h1>
 
 <div align="center">
+
 | Name                   |     ID      |        Path        |
 | ---------------------- | :---------: | :----------------: |
 | Muhammad Zarkasih      | A198BSY2060 | Mobile Development |
@@ -13,4 +14,5 @@
 | Haudio Arsyah Pisesra  | C132BSY3614 |  Cloud Computing   |
 | Nur Ikhzan             | C278BSY3904 |  Cloud Computing   |
 | Dwi Haidar Ali         | C009BSY4374 |  Cloud Computing   |
+
 </div>
