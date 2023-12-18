@@ -5,8 +5,6 @@
 
 <h3 align="center">Explore, Learn, Communicate and Guiding you through a seamless fusion of education, interactive learning</h3>
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 <div align="center">
 
 | Name                   |     ID      |        Path        |                                 Profile                                 |
