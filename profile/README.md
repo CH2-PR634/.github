@@ -3,6 +3,10 @@
 </p>
 <h1 align="center"><b>The Voice of Sign Language</b></h1>
 
+<h3 align="center">Explore, Learn, Communicate and Guiding you through a seamless fusion of education, interactive learning</h3>
+
+###
+
 <div align="center">
 
 | Name                   |     ID      |        Path        |
