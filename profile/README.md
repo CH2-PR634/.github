@@ -7,14 +7,14 @@
 
 <div align="center">
 
-| Name                   |     ID      |        Path        |  Active  |                                 Profile                                 |
-| ---------------------- | :---------: | :----------------: | :------: | :---------------------------------------------------------------------: |
-| Muhammad Zarkasih      | A198BSY2060 | Mobile Development |  Active  | <img src="https://github.com/github.png" alt="GitHub Logo" width="30"/> |
-| Ahmad Sulthan Zaky     | M535BSY0682 |  Machine Learning  |  Active  | <img src="https://github.com/github.png" alt="GitHub Logo" width="30"/> |
-| Sachril Candra Pratama | M267BSY1890 |  Machine Learning  | Inactive | <img src="https://github.com/github.png" alt="GitHub Logo" width="30"/> |
-| Hasan Asyari           | C511BSY3409 |  Cloud Computing   |  Active  | <img src="https://github.com/github.png" alt="GitHub Logo" width="30"/> |
-| Haudio Arsyah Pisesra  | C132BSY3614 |  Cloud Computing   | Inactive | <img src="https://github.com/github.png" alt="GitHub Logo" width="30"/> |
-| Nur Ikhzan             | C278BSY3904 |  Cloud Computing   |  Active  | <img src="https://github.com/github.png" alt="GitHub Logo" width="30"/> |
-| Dwi Haidar Ali         | C009BSY4374 |  Cloud Computing   | Inactive | <img src="https://github.com/github.png" alt="GitHub Logo" width="30"/> |
+| Name                   |     ID      |        Path        |  Active  |                                             Profile                                             |
+| ---------------------- | :---------: | :----------------: | :------: | :---------------------------------------------------------------------------------------------: |
+| Muhammad Zarkasih      | A198BSY2060 | Mobile Development |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/#) |
+| Ahmad Sulthan Zaky     | M535BSY0682 |  Machine Learning  |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/#) |
+| Sachril Candra Pratama | M267BSY1890 |  Machine Learning  | Inactive | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/#) |
+| Hasan Asyari           | C511BSY3409 |  Cloud Computing   |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/#) |
+| Haudio Arsyah Pisesra  | C132BSY3614 |  Cloud Computing   | Inactive | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/#) |
+| Nur Ikhzan             | C278BSY3904 |  Cloud Computing   |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/#) |
+| Dwi Haidar Ali         | C009BSY4374 |  Cloud Computing   | Inactive | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/#) |
 
 </div>
