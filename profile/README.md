@@ -7,14 +7,14 @@
 
 <div align="center">
 
-| Name                   |     ID      |        Path        |  Active  |                                                  Profile                                                  |
-| ---------------------- | :---------: | :----------------: | :------: | :-------------------------------------------------------------------------------------------------------: |
-| Muhammad Zarkasih      | A198BSY2060 | Mobile Development |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/CH2-PR634/#) |
-| Ahmad Sulthan Zaky     | M535BSY0682 |  Machine Learning  |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/CH2-PR634/#) |
-| Sachril Candra Pratama | M267BSY1890 |  Machine Learning  | Inactive | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/CH2-PR634/#) |
-| Hasan Asyari           | C511BSY3409 |  Cloud Computing   |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/CH2-PR634/#) |
-| Haudio Arsyah Pisesra  | C132BSY3614 |  Cloud Computing   | Inactive | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/CH2-PR634/#) |
-| Nur Ikhzan             | C278BSY3904 |  Cloud Computing   |  Active  | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/CH2-PR634/#) |
-| Dwi Haidar Ali         | C009BSY4374 |  Cloud Computing   | Inactive | [<img src="https://github.com/github.png" alt="GitHub Logo" width="20"/>](https://github.com/CH2-PR634/#) |
+| Name                   |     ID      |        Path        |  Active  |                                                                            Profile                                                                             |
+| ---------------------- | :---------: | :----------------: | :------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Muhammad Zarkasih      | A198BSY2060 | Mobile Development |  Active  |                   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo"/>]()                   |
+| Ahmad Sulthan Zaky     | M535BSY0682 |  Machine Learning  |  Active  |                   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo"/>]()                   |
+| Sachril Candra Pratama | M267BSY1890 |  Machine Learning  | Inactive |                   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo"/>]()                   |
+| Hasan Asyari           | C511BSY3409 |  Cloud Computing   |  Active  | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo"/>](https://www.linkedin.com/in/hasyari/) |
+| Haudio Arsyah Pisesra  | C132BSY3614 |  Cloud Computing   | Inactive |                   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo"/>]()                   |
+| Nur Ikhzan             | C278BSY3904 |  Cloud Computing   |  Active  |                   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo"/>]()                   |
+| Dwi Haidar Ali         | C009BSY4374 |  Cloud Computing   | Inactive |                   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo"/>]()                   |
 
 </div>
