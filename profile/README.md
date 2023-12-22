@@ -7,14 +7,14 @@
 
 <div align="center">
 
-| Name                   |     ID      |        Path        |  Active  |                                        
+| Name                   |     ID      |        Path        |  Active  |
 | ---------------------- | :---------: | :----------------: | :------: |
-| Muhammad Zarkasih      | A198BSY2060 | Mobile Development |  Active  |                  
-| Ahmad Sulthan Zaky     | M535BSY0682 |  Machine Learning  |  Active  |                                
-| Sachril Candra Pratama | M267BSY1890 |  Machine Learning  | Inactive |                                   
+| Muhammad Zarkasih      | A198BSY2060 | Mobile Development |  Active  |
+| Ahmad Sulthan Zaky     | M535BSY0682 |  Machine Learning  |  Active  |
+| Sachril Candra Pratama | M267BSY1890 |  Machine Learning  | Inactive |
 | Hasan Asyari           | C511BSY3409 |  Cloud Computing   |  Active  |
-| Haudio Arsyah Pisesra  | C132BSY3614 |  Cloud Computing   | Inactive |                
-| Nur Ikhzan             | C278BSY3904 |  Cloud Computing   |  Active  |                 
-| Dwi Haidar Ali         | C009BSY4374 |  Cloud Computing   | Inactive |         
+| Haudio Arsyah Pisesra  | C132BSY3614 |  Cloud Computing   |  Active  |
+| Nur Ikhzan             | C278BSY3904 |  Cloud Computing   |  Active  |
+| Dwi Haidar Ali         | C009BSY4374 |  Cloud Computing   | Inactive |
 
 </div>
